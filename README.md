@@ -10,7 +10,7 @@
 
 ## 内容
 
-- [Part 1 For Beginners Bag of Words（初学词袋）](http://nbviewer.jupyter.org/github/BrambleXu/word2vec-movies/blob/master/Part%201%20For%20Beginners%20Bag%20of%20Words%EF%BC%88%E8%AF%8D%E8%A2%8B%E5%88%9D%E5%AD%A6%E8%80%85%EF%BC%89.ipynb)
+- [Part 1 For Beginners Bag of Words（初学词袋）](http://nbviewer.jupyter.org/github/BrambleXu/word2vec-movies/blob/master/Part%201%20For%20Beginners%20Bag%20of%20Words%EF%BC%88%E5%88%9D%E5%AD%A6%E8%AF%8D%E8%A2%8B%EF%BC%89.ipynb)
 - [Part 2 Word Vectors（词向量）](http://nbviewer.jupyter.org/github/BrambleXu/word2vec-movies/blob/master/Part%202%20Word%20Vectors%EF%BC%88%E8%AF%8D%E5%90%91%E9%87%8F%EF%BC%89.ipynb)
 - [ Part 3 More Fun With Word Vectors（词向量的更多用法）](http://nbviewer.jupyter.org/github/BrambleXu/word2vec-movies/blob/master/Part%203%20More%20Fun%20With%20Word%20Vectors%EF%BC%88%E8%AF%8D%E5%90%91%E9%87%8F%E7%9A%84%E6%9B%B4%E5%A4%9A%E7%94%A8%E6%B3%95%EF%BC%89.ipynb)
 
